@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayen-bensoltane
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java
+- 🌱 Python all day, everyday
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 How to reach me : https://www.linkedin.com/in/rayen-ben-soltane/
 
