@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rayen-bensoltane
+- 👋 Hi, I’m @Ray
 - 👀 I’m interested in Data Science
 - 🌱 Python all day, everyday
 - 💞️ I’m looking to collaborate on AI related projects
